@@ -23,7 +23,7 @@ export function Unidades() {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-stretch">
         <div className="lg:col-span-7 rounded-xl overflow-hidden border border-light-outline-variant bg-light-surface-container-lowest">
           <Image
-            src="/images/interior-furgoneta-climatizada.jpg"
+            src="/images/unidades.jpeg"
             alt="Interior ergonómico y climatizado de furgoneta MOCATRANS C.A"
             width={1200}
             height={640}
